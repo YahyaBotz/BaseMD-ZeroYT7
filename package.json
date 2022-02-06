@@ -8,7 +8,7 @@
 "start": "node start.js"
 },
 "keywords": [],
-"author": "Zero YT7",
+"author": "Yahya",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
