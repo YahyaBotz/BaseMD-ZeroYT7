@@ -3,20 +3,21 @@
 **/
 
 /**
-* Create By Zero YT7
-* Contact Me on wa.me/6285157740529
+* Create By Yahya
+* Contact Me on 
 * Follow Me On All Sosial Media
-* Instagram : @Zero_YT7
-* Tiktok : @_zeroyt7
-* Github : Zero-YT7
-* Youtube : Zero YT7
+* Instagram : @myhyfr_
+* Tiktok : -
+* Github : -
+* Youtube : -
 **/
 
 /**
 * Thanks To
 * Allah S.W.T
 * Ortu
-* Zero YT7
+* Yahya
+* Arastorebot
 * Dhika Ardiant
 * All Creator Bot
 * All Subscriber Ku
@@ -92,7 +93,7 @@ Silahkan Intro Dulu Kak😇
 ☎Asal Kota :
 📦Gender :
 
-Semoga Betah Ya Kak
+Semoga Betah Ya Tods
 Jangan Lupa Patuhi Rules Groupnya` })
 } else if (anu.action == 'remove') {
 zeroyt7.sendMessage(anu.id, { image: { url: ppuser }, contextInfo: { mentionedJid: [num] }, caption: `Yah Kok Keluar Dari *${metadata.subject}*, Sayonara @${num.split("@")[0]} :(` })
